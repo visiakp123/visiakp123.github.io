@@ -101,7 +101,7 @@ img{
 }
 
 @media only screen and (max-width: 720px) {
-	.main{width: 350%;
+	.main{width: 400%;
 	height: 100vh;}, 
 	.logo img, .logo img2, .btn-floating, .btn-floating:hover, .btn-floating.komando, .btn-floating.simkp, 
 	.btn-floating.email, .btn-floating.fix, .btn-floating.cos, .btn-floating.sap {width: 100%; height: 100%;}
